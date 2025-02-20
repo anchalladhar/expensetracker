@@ -21,9 +21,7 @@ import me.bytebeats.views.charts.bar.render.label.SimpleLabelDrawer.DrawLocation
 import me.bytebeats.views.charts.bar.render.xaxis.SimpleXAxisDrawer
 import me.bytebeats.views.charts.bar.render.yaxis.SimpleYAxisDrawer
 
-/**
- * @author Ahmed Guedmioui
- */
+
 
 
 @Composable
