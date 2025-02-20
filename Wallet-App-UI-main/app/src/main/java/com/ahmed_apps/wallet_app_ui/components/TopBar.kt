@@ -26,9 +26,7 @@ import androidx.compose.ui.unit.sp
 import com.ahmed_apps.wallet_app_ui.R
 import com.ahmed_apps.wallet_app_ui.ui.theme.WalletAppUITheme
 
-/**
- * @author Ahmed Guedmioui
- */
+
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
