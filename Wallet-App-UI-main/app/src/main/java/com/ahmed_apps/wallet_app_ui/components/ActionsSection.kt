@@ -28,9 +28,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.ahmed_apps.wallet_app_ui.R
 
-/**
- * @author Ahmed Guedmioui
- */
+
 
 @Composable
 fun ActionsSection(modifier: Modifier = Modifier) {
